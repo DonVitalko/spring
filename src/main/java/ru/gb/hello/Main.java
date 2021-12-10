@@ -1,6 +1,7 @@
 package ru.gb.hello;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+import ru.gb.hello.config.HelloConfiguration;
 
 import java.util.Arrays;
 
